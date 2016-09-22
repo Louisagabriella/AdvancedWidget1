@@ -1,6 +1,6 @@
 # AdvancedWidget1
 # ADVANCED WIDGET 1 <br> <br>
-ScreenShoot Aplikasi Bedasarkan Commit: <br><br> <br>
+# ScreenShoot Aplikasi <br> Bedasarkan Commit: <br><br> <br>
 1. Widget Programming Part 1 <br> <br> <br>
 TAMPILAN SEBELUM DI INPUTKAN NAMA DAN UMUR <br><br>
 ![tampilan commit widget programming part 1_1](https://cloud.githubusercontent.com/assets/21364340/18737578/209552ae-80bd-11e6-85a4-4a657b7691a0.png)<br>
