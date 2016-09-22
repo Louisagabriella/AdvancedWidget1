@@ -8,7 +8,7 @@ TAMPILAN SETELAH INPUTKAN NAMA DAN UMUR: <br>
 ![tampilan commit widget programming part 1_2](https://cloud.githubusercontent.com/assets/21364340/18737580/209d7614-80bd-11e6-90ec-1646af6db534.png)<br>
 <br>
 <br>
-2. Widget Programming Part 2 <br>
+2. Widget Programming Part 2 <br> <br>
 TAMPILAN SEBELUM DI INPUTKAN NAMA DAN UMUR <br> 
 ![tampilan commit widget programming part 2_1](https://cloud.githubusercontent.com/assets/21364340/18737581/20a15c70-80bd-11e6-9f4e-287129455cb9.png)<br>
 TAMPILAN SETELAH INPUTKAN NAMA DAN UMUR <br>
@@ -17,7 +17,7 @@ TAMPILAN SETELAH INPUTKAN NAMA DAN UMUR <br>
 <br>
 <br>
 2. Widget Programming Final Part <br>
-TAMPILAN SEBELUM DI INPUTKAN NAMA DAN UMUT <br>
+TAMPILAN SEBELUM DI INPUTKAN NAMA DAN UMUR <br>
 ![tampilan commit widget programming final part_1](https://cloud.githubusercontent.com/assets/21364340/18737591/421c92a2-80bd-11e6-889e-844d15cc0a82.png)<br>
 TAMPILAN SETELAH DI INPULKAN NAMA DAN UMUR <br>
 ![tampilan commit widget programming final part_2](https://cloud.githubusercontent.com/assets/21364340/18737592/421e1456-80bd-11e6-8081-12fa17005cc1.png)<br>
