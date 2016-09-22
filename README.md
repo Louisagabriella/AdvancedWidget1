@@ -25,7 +25,7 @@ TAMPILAN SETELAH DI INPULKAN NAMA DAN UMUR <br>
 <br>
 <br> <br>
 # Link APK <br>
-https://drive.google.com/open?id=0B2j5Yd_9Vxeoa2xDNkNWOHh6Yzg
+https://drive.google.com/open?id=0B2j5Yd_9VxeoaDByWXhNbkNHbFU
 <br> 
 <br>
 <br> <br>
