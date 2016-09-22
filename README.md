@@ -1,5 +1,5 @@
 # AdvancedWidget1
-<enter> ADVANCED WIDGET 2 </enter> <br>
+<enter> ADVANCED WIDGET 1 </enter> <br>
 ScreenShoot Aplikasi Bedasarkan Commite: <br>
 1. Widget Programming Part 1 <br>
 TAMPILAN SEBELUM DI INPUTKAN NAMA DAN UMUR <br>
