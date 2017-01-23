@@ -22,12 +22,6 @@ TAMPILAN SEBELUM DI INPUTKAN NAMA DAN UMUR <br>
 TAMPILAN SETELAH DI INPULKAN NAMA DAN UMUR <br>
 ![tampilan commit widget programming final part_2](https://cloud.githubusercontent.com/assets/21364340/18737592/421e1456-80bd-11e6-8081-12fa17005cc1.png)<br>
 <br>
-<br>
-<br> <br>
-# Link APK <br>
-https://drive.google.com/open?id=0B2j5Yd_9VxeoaDByWXhNbkNHbFU
-<br> 
-<br>
 <br> <br>
 # Identitas <br>
 NAMA          : LOUISA GABRIELLA <br>
